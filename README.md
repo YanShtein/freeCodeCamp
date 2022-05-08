@@ -1,1 +1,2 @@
-# Here I will post challenges and projects of the freeCodeCamp course.
+# freeCodeCamp course -->
+Here I will post challenges and projects from the course.
